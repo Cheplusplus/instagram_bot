@@ -5,7 +5,7 @@ import time as t
 import random
 import re
 
-access_token = "EAAtgnpLvb6ABACWyX2trkBbyIQClTACAtsAzUjqviQibfIZAa4ijwZBtH10v3l5oTZAFLpVhwbJtAxjTHUZBZAqTQIuvMZBudfAri3RJlj6Ha04yBRZBX2dS9lh4tEnOfKvXXughgpjqd8XMv47Rn7C5We48wmwi9Oi5KqtXWeN5nutFRmLGdXE"
+access_token = ""
 page_id = "17841453529975367"
 api_url = "https://graph.facebook.com/"
 version = "v14.0/"

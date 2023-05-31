@@ -3,8 +3,8 @@ from requests import get, post, Session
 from datetime import datetime
 
 
-username = 'castro_witha_sauce'
-password = 'Che0718584040!'
+username = ''
+password = ''
 
 
 class InstagramAPIwrapper:
